@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/bin/Debug/netcoreapp2.2/basic_13.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/bin/Debug/netcoreapp2.2/basic_13.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/bin/Debug/netcoreapp2.2/basic_13.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/bin/Debug/netcoreapp2.2/basic_13.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/basic_13/obj/Debug/netcoreapp2.2/basic_13.pdb
