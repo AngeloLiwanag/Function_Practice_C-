@@ -187,7 +187,9 @@ namespace basic_13
                 System.Console.WriteLine(num.ToString());
             }
         }
-                public static object[] NumToString(int[] numbers){
+        
+        public static object[] NumToString(int[] numbers)
+        {
             List<object> newNumbers = new List<object>();
             for(int i = 0; i<numbers.Length; i++){
                 if(numbers[i]<0){
